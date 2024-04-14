@@ -1,5 +1,4 @@
-Simon's Game
-Description
+<h2>Simon's Game Description:</h2>
 Simon's Game is a digital rendition of the iconic Simon memory game developed using JavaScript, HTML, and CSS. This project implements fundamental game mechanics such as generating random sequences, validating user input, and tracking scores.
 
 Key Contributions
