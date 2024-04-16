@@ -21,3 +21,6 @@ Successfully created a functional digital version of Simon's game, showcasing pr
 - Explore opportunities to enhance game aesthetics and user interface elements.
 - Implement additional features such as sound effects or difficulty levels to enrich the gameplay experience.
 - Refactor code for improved efficiency and scalability, adhering to best practices in JavaScript development.
+
+## Deployment
+The game is deployed on Vercel. You can play it [here](https://simon-game-lemon-seven.vercel.app/).
