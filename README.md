@@ -23,4 +23,4 @@ Successfully created a functional digital version of Simon's game, showcasing pr
 - Refactor code for improved efficiency and scalability, adhering to best practices in JavaScript development.
 
 ## Deployment
-The game is deployed on Vercel. You can play it [here](https://simon-game-lemon-seven.vercel.app/).
+The game is deployed on Vercel. You can play it [here](https://deepak-simon-game.vercel.app/).
